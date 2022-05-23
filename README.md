@@ -1,14 +1,6 @@
 # METRO SYSTEM APP
 Metro System Console Application
 
-## TEAM MEMBERS
-- Sandesh Tiwari S
-- Krishna Tej
-- Harshit Shukla
-- Sri Hari N U
-- Ayesha Rehman
-- Atharva Deshmukh
-
 ## PROBLEM DESCRIPTION
 
 Design and develop an application for central metro system. The application needs to provide the swipe in and swipe out functionality.
